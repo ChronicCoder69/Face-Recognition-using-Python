@@ -5,6 +5,7 @@ Simple face recognition system built using python keras
 Well for those who are new to concepts of ML/AI, lets just say that there are a set of commands in python grouped together and called Keras which when coupled with another set of commands called Face recognition, magically detect the face of known persons' in a group photo.
 
 #What are the applications of Face Recognition?
+
 An important one is when your mobile phone uses face recognition to unlock!
 
 Other important applications include:
